@@ -23,7 +23,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String TAG = "GraphTesting";
+    private final String TAG = "Testando";
 
     //add PointsGraphSeries of DataPoint type
     PointsGraphSeries<DataPoint> xySeries;
